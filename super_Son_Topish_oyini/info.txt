@@ -1,0 +1,3 @@
+Bu dasturda kompyuter va odam son topish o'yini o'ynaydi.
+Dastlab odam kompyuter o'ylagan sonni topishga harakat qiladi.
+Keyin kompyuter bu ishni takrorlaydi va yakunda g'olib aniqlanadi
